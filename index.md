@@ -3,35 +3,27 @@
 This website is built using **GitHub Pages** and **Markdown**.
 
 ## Features of this page:
-
--Simple to set up
--Publicly Available
--Using **GitHub Flavoured MarkDown** (GFM)
+- Simple to set up
+- Publicly Available
+- Using **GitHub Flavored Markdown** (GFM)
 
 ## Task List
-
--[x] set up repository
--[x] Enable GitHub Pages
--[] Write content using Markdown
+- [x] Set up repository
+- [x] Enable GitHub Pages
+- [ ] Write content using Markdown
 
 ## Table Example
-
-| Syntax    |   Description     |
+| Syntax    | Description       |
 |-----------|-------------------|
-| Header    |   Title           |
-| Paragraph |   Text            |
-
-
-
+| Header    | Title             |
+| Paragraph | Text              |
 
 ### Sample Code
-
-You Can add code blocks easily in markdown:
-
+You can add code blocks easily in Markdown:
 
 ```python
-
 def hello_world():
     print("Hello, World!")
+
 
 
