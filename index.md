@@ -13,10 +13,13 @@ This website is built using **GitHub Pages** and **Markdown**.
 - [ ] Write content using Markdown
 
 ## Table Example
+
 | Syntax    | Description       |
 |-----------|-------------------|
 | Header    | Title             |
 | Paragraph | Text              |
+
+
 
 ### Sample Code
 You can add code blocks easily in Markdown:
