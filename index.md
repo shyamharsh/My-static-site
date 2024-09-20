@@ -17,7 +17,7 @@ This website is built using **GitHub Pages** and **Markdown**.
 | Syntax    | Description       |
 |-----------|-------------------|
 | Header    | Title             |
-| Paragraph | Text              |
+| Paragr    | Text              |
 
 
 
